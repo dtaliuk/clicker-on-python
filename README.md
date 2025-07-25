@@ -2,7 +2,7 @@
 
 The clicker clicks the left mouse button every 0.1 seconds
 
-To start/stop the clicker press the s key on your keyboard
+To start/stop the clicker press the `s` key on your keyboard
 
 # 
 
